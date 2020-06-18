@@ -7,7 +7,7 @@ namespace Triangles
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter an odd number:");
+            Console.WriteLine("Enter an odd number for the length of the bottom:");
             int Num;
             // Wait for a valid input
             while (int.TryParse(Console.ReadLine(), out Num) && Num <= 0 && Num % 2 == 1);
