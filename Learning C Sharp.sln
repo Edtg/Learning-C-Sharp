@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning C Sharp", "Learning C Sharp\Learning C Sharp.csproj", "{49E3D0E0-DA3E-4A87-BD07-09AC6B1B6CBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangles", "Triangles\Triangles.csproj", "{0ADB0458-BF7A-4DEE-ABA2-9A303968EED7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49E3D0E0-DA3E-4A87-BD07-09AC6B1B6CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E3D0E0-DA3E-4A87-BD07-09AC6B1B6CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E3D0E0-DA3E-4A87-BD07-09AC6B1B6CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E3D0E0-DA3E-4A87-BD07-09AC6B1B6CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ADB0458-BF7A-4DEE-ABA2-9A303968EED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ADB0458-BF7A-4DEE-ABA2-9A303968EED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ADB0458-BF7A-4DEE-ABA2-9A303968EED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ADB0458-BF7A-4DEE-ABA2-9A303968EED7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5914FBA6-87A2-4C23-9DB2-865417959085}
+	EndGlobalSection
+EndGlobal
